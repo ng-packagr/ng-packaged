@@ -10,6 +10,10 @@ dependencies:
   pre:
     - rm -rf node_modules
     - yarn cache clean
+    - yarn global add greenkeeper-lockfile@1
+    - greenkeeper-lockfile-update
+  post:
+    - greenkeeper-lockfile-upload
 
 test:
   override:

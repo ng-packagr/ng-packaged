@@ -1,5 +1,7 @@
 # Packaging Angular libraries with ng-packagr
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/dherges/ng-packaged.svg)](https://greenkeeper.io/)
+
 > Angular libraries are fun!
 
 This repository is an example how to set-up an Angular library project.

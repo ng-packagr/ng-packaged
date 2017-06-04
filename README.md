@@ -41,7 +41,8 @@ In root `package.json`:
   "name": "ng-packaged",
   "scripts": {
     "build:lib": "ng-packagr"
-  },
+  }
+}
 ```
 
 It picks up a configuration in `ng-package.json`:

@@ -42,7 +42,7 @@
     "ng-packagr": "^1.0.0-pre.4",
     "protractor": "~5.1.0",
     "ts-node": "~3.1.0",
-    "tslint": "~5.4.2",
+    "tslint": "~5.5.0",
     "typescript": "~2.4.1"
   }
 }

@@ -147,7 +147,7 @@
   dependencies:
     tslib "^1.7.1"
 
-"@angular/tsc-wrapped@4.4.6", "@angular/tsc-wrapped@^4.2.0":
+"@angular/tsc-wrapped@4.4.6", "@angular/tsc-wrapped@^4.4.5":
   version "4.4.6"
   resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-4.4.6.tgz#16787cbbf50bdc7e738123b19c32527f244e178d"
   dependencies:
@@ -1191,9 +1191,9 @@ cosmiconfig@^2.1.0, cosmiconfig@^2.1.1:
     parse-json "^2.2.0"
     require-from-string "^1.1.0"
 
-cpr@^2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/cpr/-/cpr-2.2.0.tgz#2dc6c87dfb78012489cdd994227628c320e9a17b"
+cpr@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/cpr/-/cpr-3.0.0.tgz#64bca2efce1576f49e78f5533162ae993f3f9817"
   dependencies:
     graceful-fs "^4.1.5"
     minimist "^1.2.0"
@@ -3737,11 +3737,11 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-ng-packagr@1.5.0-rc.0:
-  version "1.5.0-rc.0"
-  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-1.5.0-rc.0.tgz#62b3d68fa605948a0343c8d249beda1d3a51288a"
+ng-packagr@1.5.0-rc.1:
+  version "1.5.0-rc.1"
+  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-1.5.0-rc.1.tgz#b07f0d83ca470d2f64fa5ba609f316a2f65b034c"
   dependencies:
-    "@angular/tsc-wrapped" "^4.2.0"
+    "@angular/tsc-wrapped" "^4.4.5"
     "@ngtools/json-schema" "^1.1.0"
     autoprefixer "^7.1.1"
     browserslist "^2.1.5"
@@ -3762,7 +3762,7 @@ ng-packagr@1.5.0-rc.0:
     sorcery "^0.10.0"
     stylus "^0.54.5"
     ts-node "^3.0.4"
-    typescript "^2.3.2"
+    typescript "^2.3.4"
     uglify-js "^3.0.7"
     vinyl-fs "^2.4.4"
 
@@ -5821,7 +5821,7 @@ type-is@~1.6.15:
     media-typer "0.3.0"
     mime-types "~2.1.15"
 
-"typescript@>=2.0.0 <2.6.0", typescript@^2.3.2, typescript@^2.3.3, typescript@~2.5.2:
+"typescript@>=2.0.0 <2.6.0", typescript@^2.3.3, typescript@^2.3.4, typescript@~2.5.2:
   version "2.5.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.5.3.tgz#df3dcdc38f3beb800d4bc322646b04a3f6ca7f0d"
 

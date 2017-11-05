@@ -3936,9 +3936,9 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-ng-packagr@1.5.0-rc.1:
-  version "1.5.0-rc.1"
-  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-1.5.0-rc.1.tgz#b07f0d83ca470d2f64fa5ba609f316a2f65b034c"
+ng-packagr@1.5.0:
+  version "1.5.0"
+  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-1.5.0.tgz#1becf7a1e87d406397a6ca2b4414b0af8348e28a"
   dependencies:
     "@angular/tsc-wrapped" "^4.4.5"
     "@ngtools/json-schema" "^1.1.0"

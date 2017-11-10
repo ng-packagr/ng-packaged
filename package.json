@@ -11,7 +11,8 @@
     "build:lib": "ng-packagr",
     "test": "ng test",
     "lint": "ng lint",
-    "e2e": "ng e2e"
+    "e2e": "ng e2e",
+    "postinstall": "npm rebuild node-sass"
   },
   "dependencies": {
     "@angular/common": "~5.0.0",

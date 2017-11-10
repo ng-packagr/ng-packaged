@@ -26,7 +26,7 @@
     minimist "^1.2.0"
     rxjs "^5.4.2"
 
-"@angular/cli@1.5.0":
+"@angular/cli@~1.5.0":
   version "1.5.0"
   resolved "https://registry.yarnpkg.com/@angular/cli/-/cli-1.5.0.tgz#2abc3ff1648d54ad4a14f82f9d517f371370406c"
   dependencies:
@@ -149,12 +149,6 @@
   resolved "https://registry.yarnpkg.com/@angular/router/-/router-5.0.0.tgz#fe4b521a6738408bce30f93a53499140c93a4f76"
   dependencies:
     tslib "^1.7.1"
-
-"@angular/tsc-wrapped@^4.4.5":
-  version "4.4.6"
-  resolved "https://registry.yarnpkg.com/@angular/tsc-wrapped/-/tsc-wrapped-4.4.6.tgz#16787cbbf50bdc7e738123b19c32527f244e178d"
-  dependencies:
-    tsickle "^0.21.0"
 
 "@ngtools/json-schema@1.1.0", "@ngtools/json-schema@^1.1.0":
   version "1.1.0"
@@ -3936,11 +3930,10 @@ negotiator@0.6.1:
   version "0.6.1"
   resolved "https://registry.yarnpkg.com/negotiator/-/negotiator-0.6.1.tgz#2b327184e8992101177b28563fb5e7102acd0ca9"
 
-ng-packagr@1.5.0:
-  version "1.5.0"
-  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-1.5.0.tgz#1becf7a1e87d406397a6ca2b4414b0af8348e28a"
+ng-packagr@1.5.1:
+  version "1.5.1"
+  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-1.5.1.tgz#c90407bed3ab050ecb9fbbd7061043bb334256d8"
   dependencies:
-    "@angular/tsc-wrapped" "^4.4.5"
     "@ngtools/json-schema" "^1.1.0"
     autoprefixer "^7.1.1"
     browserslist "^2.1.5"
@@ -3961,7 +3954,6 @@ ng-packagr@1.5.0:
     sorcery "^0.10.0"
     stylus "^0.54.5"
     ts-node "^3.0.4"
-    typescript "^2.3.4"
     uglify-js "^3.0.7"
     vinyl-fs "^2.4.4"
 
@@ -6044,15 +6036,6 @@ tsconfig@^6.0.0:
     strip-bom "^3.0.0"
     strip-json-comments "^2.0.0"
 
-tsickle@^0.21.0:
-  version "0.21.6"
-  resolved "https://registry.yarnpkg.com/tsickle/-/tsickle-0.21.6.tgz#53b01b979c5c13fdb13afb3fb958177e5991588d"
-  dependencies:
-    minimist "^1.2.0"
-    mkdirp "^0.5.1"
-    source-map "^0.5.6"
-    source-map-support "^0.4.2"
-
 tsickle@^0.24.0:
   version "0.24.1"
   resolved "https://registry.yarnpkg.com/tsickle/-/tsickle-0.24.1.tgz#039343b205bf517a333b0703978892f80a7d848e"
@@ -6113,7 +6096,7 @@ typedarray@^0.0.6:
   version "0.0.6"
   resolved "https://registry.yarnpkg.com/typedarray/-/typedarray-0.0.6.tgz#867ac74e3864187b1d3d47d996a78ec5c8830777"
 
-typescript@^2.3.3, typescript@^2.3.4, typescript@~2.5.2:
+typescript@^2.3.3, typescript@~2.5.2:
   version "2.5.3"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-2.5.3.tgz#df3dcdc38f3beb800d4bc322646b04a3f6ca7f0d"
 

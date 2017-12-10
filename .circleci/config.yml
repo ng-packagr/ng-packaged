@@ -6,10 +6,7 @@ version: 2
 jobs:
   build:
     docker:
-      # specify the version you desire here
-      # - image: circleci/node:latest
       - image: angular/ngcontainer:latest
-
     working_directory: ~/repo
 
     steps:
@@ -18,17 +15,20 @@ jobs:
       # Download and cache dependencies
       - restore_cache:
           keys:
-          - v1-dependencies-{{ checksum "package.json" }}
-          # fallback to using the latest cache if no exact match is found
-          - v1-dependencies-
+          - v1-dependencies-{{ checksum "yarn.lock" }}
 
-      - run: node --version && yarn --version && git --version
+      - run:
+          name: Version Info
+          command: |
+            node --version \
+              && yarn --version \
+              && git --version
       - run: yarn install
 
       - save_cache:
           paths:
             - node_modules
-          key: v1-dependencies-{{ checksum "package.json" }}
+          key: v1-dependencies-{{ checksum "yarn.lock" }}
 
       # Build the libraries
       - run: yarn build:lib

@@ -58,7 +58,7 @@ It picks up a configuration in `ng-package.json`:
   "dest": "dist/my-lib",
   "workingDirectory": ".ng_build",
   "lib": {
-    "entryFile": "src/public_api.ts"
+    "entryFile": "my-lib/src/public_api.ts"
   }
 }
 ```

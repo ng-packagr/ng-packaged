@@ -4167,9 +4167,9 @@ netmask@~1.0.4:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/netmask/-/netmask-1.0.6.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
 
-ng-packagr@2.0.0-rc.7:
-  version "2.0.0-rc.7"
-  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-2.0.0-rc.7.tgz#ce87819968000553ec3214632ffd4df78e807a9c"
+ng-packagr@2.0.0-rc.8:
+  version "2.0.0-rc.8"
+  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-2.0.0-rc.8.tgz#e82355433538849fe08856542687456c39641f3b"
   dependencies:
     "@ngtools/json-schema" "^1.1.0"
     autoprefixer "^7.1.1"
@@ -4184,7 +4184,7 @@ ng-packagr@2.0.0-rc.7:
     postcss "^6.0.2"
     postcss-url "^7.3.0"
     rimraf "^2.6.1"
-    rollup "^0.52.0"
+    rollup "^0.53.0"
     rollup-plugin-commonjs "^8.2.1"
     rollup-plugin-node-resolve "^3.0.0"
     sorcery "^0.10.0"
@@ -5653,9 +5653,9 @@ rollup-pluginutils@^2.0.1:
     estree-walker "^0.3.0"
     micromatch "^2.3.11"
 
-rollup@^0.52.0:
-  version "0.52.1"
-  resolved "https://registry.yarnpkg.com/rollup/-/rollup-0.52.1.tgz#610e8e1be432f18fcfbfa865408a1cd7618cd707"
+rollup@^0.53.0:
+  version "0.53.0"
+  resolved "https://registry.yarnpkg.com/rollup/-/rollup-0.53.0.tgz#7a3d5a04ba2b0a8f2405899fa6a0ac48da480ed1"
 
 run-queue@^1.0.0, run-queue@^1.0.3:
   version "1.0.3"

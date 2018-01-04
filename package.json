@@ -8,7 +8,7 @@
     "start": "ng serve",
     "build": "ng build",
     "build:app": "cpr dist/my-lib src/@my/lib && ng build --app packages && rimraf src/@my",
-    "build:lib": "ng-packagr",
+    "build:lib": "rimraf dist && ng-packagr -p my-lib/package.json",
     "test": "ng test",
     "lint": "ng lint",
     "e2e": "ng e2e"

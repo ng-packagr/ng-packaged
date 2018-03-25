@@ -4545,9 +4545,9 @@ netmask@~1.0.4:
   version "1.0.6"
   resolved "https://registry.yarnpkg.com/netmask/-/netmask-1.0.6.tgz#20297e89d86f6f6400f250d9f4f6b4c1945fcd35"
 
-ng-packagr@2.2.0:
-  version "2.2.0"
-  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-2.2.0.tgz#a66b7d822c40e8aa0dee34e06cca05151c522a3b"
+ng-packagr@2.3.0:
+  version "2.3.0"
+  resolved "https://registry.yarnpkg.com/ng-packagr/-/ng-packagr-2.3.0.tgz#bae463147e659d8ce4869fbb73875c5de4448186"
   dependencies:
     "@ngtools/json-schema" "^1.1.0"
     autoprefixer "^7.1.1"

@@ -24,7 +24,7 @@
     "@angular/router": "~5.2.0",
     "core-js": "^2.4.1",
     "rxjs": "^5.4.2",
-    "zone.js": "^0.8.14"
+    "zone.js": "0.8.21"
   },
   "devDependencies": {
     "@angular-devkit/schematics": "^0.4.0",
@@ -47,8 +47,8 @@
     "protractor": "~5.3.0",
     "rimraf": "^2.6.1",
     "ts-node": "~5.0.0",
-    "tslint": "~5.9.0",
     "tsickle": "^0.27.1",
+    "tslint": "~5.9.0",
     "typescript": "~2.7.1"
   }
 }

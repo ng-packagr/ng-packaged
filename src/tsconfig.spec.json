@@ -5,19 +5,12 @@
     "module": "commonjs",
     "target": "es5",
     "baseUrl": "",
-    "types": [
-      "jasmine",
-      "node"
-    ],
+    "types": ["jasmine", "node"],
     "paths": {
-      "@my/lib": [ "../dist/my-lib" ]
+      "@my/lib": ["../dist/my-lib"]
     }
   },
-  "files": [
-    "test.ts"
-  ],
-  "include": [
-    "**/*.spec.ts",
-    "**/*.d.ts"
-  ]
+  "files": ["test.ts"],
+  "include": ["../my-lib/**/*.ts"],
+  "exclude": ["node_modules", "tmp"]
 }

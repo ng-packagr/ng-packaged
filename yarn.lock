@@ -7668,6 +7668,6 @@ yn@^2.0.0:
   version "2.0.0"
   resolved "https://registry.yarnpkg.com/yn/-/yn-2.0.0.tgz#e5adabc8acf408f6385fc76495684c88e6af689a"
 
-zone.js@0.8.21:
-  version "0.8.21"
-  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.8.21.tgz#8c0e8e361bd326ee1474e4f96e17d5ef99bec4b2"
+zone.js@0.8.26:
+  version "0.8.26"
+  resolved "https://registry.yarnpkg.com/zone.js/-/zone.js-0.8.26.tgz#7bdd72f7668c5a7ad6b118148b4ea39c59d08d2d"

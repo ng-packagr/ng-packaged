@@ -99,18 +99,11 @@
     rxjs "^6.0.0"
     source-map "^0.5.6"
 
-"@angular-devkit/schematics@0.7.0-rc.3":
+"@angular-devkit/schematics@0.7.0-rc.3", "@angular-devkit/schematics@^0.7.0-rc":
   version "0.7.0-rc.3"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-0.7.0-rc.3.tgz#696a4eba6ee68891694bb670c190d9e9d2c0d18c"
   dependencies:
     "@angular-devkit/core" "0.7.0-rc.3"
-    rxjs "^6.0.0"
-
-"@angular-devkit/schematics@^0.6.0":
-  version "0.6.0"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-0.6.0.tgz#0117dc7d5905b053df4f2918e2e073efd1091f5c"
-  dependencies:
-    "@angular-devkit/core" "0.6.0"
     rxjs "^6.0.0"
 
 "@angular/cli@6.1.0-rc.3":

@@ -28,7 +28,7 @@
   },
   "devDependencies": {
     "@angular-devkit/build-angular": "^0.8.2",
-    "@angular-devkit/schematics": "^0.8.2",
+    "@angular-devkit/schematics": "^7.1.0-beta",
     "@angular/cli": "7.1.0-beta.0",
     "@angular/compiler-cli": "7.1.0-beta.2",
     "@angular/language-service": "7.1.0-beta.2",

@@ -107,19 +107,12 @@
     rxjs "6.3.3"
     source-map "0.7.3"
 
-"@angular-devkit/schematics@7.1.0-beta.0":
+"@angular-devkit/schematics@7.1.0-beta.0", "@angular-devkit/schematics@^7.1.0-beta":
   version "7.1.0-beta.0"
   resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-7.1.0-beta.0.tgz#4e28ccadac3eba38fcaa04c90e9e5457818bbc78"
   dependencies:
     "@angular-devkit/core" "7.1.0-beta.0"
     rxjs "6.3.3"
-
-"@angular-devkit/schematics@^0.8.2":
-  version "0.8.7"
-  resolved "https://registry.yarnpkg.com/@angular-devkit/schematics/-/schematics-0.8.7.tgz#1fb2af08cc594a4d5493196090950314689004ac"
-  dependencies:
-    "@angular-devkit/core" "0.8.7"
-    rxjs "~6.2.0"
 
 "@angular/cli@7.1.0-beta.0":
   version "7.1.0-beta.0"

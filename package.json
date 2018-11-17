@@ -32,7 +32,7 @@
     "@angular/cli": "7.1.0-beta.1",
     "@angular/compiler-cli": "7.1.0-beta.2",
     "@angular/language-service": "7.1.0-beta.2",
-    "@types/jasmine": "~2.8.0",
+    "@types/jasmine": "~3.0.0",
     "@types/node": "^10.10.1",
     "codelyzer": "~4.5.0",
     "cpr": "^3.0.0",

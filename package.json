@@ -47,7 +47,7 @@
     "ng-packagr": "5.4.3",
     "protractor": "~6.0.0-beta",
     "rimraf": "^2.6.1",
-    "ts-node": "~8.0.0",
+    "ts-node": "~8.10.0",
     "tsickle": "^0.34.0",
     "tslib": "^1.7.1",
     "tslint": "~5.18.0",

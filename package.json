@@ -45,7 +45,7 @@
     "karma-jasmine": "~2.0.0",
     "karma-jasmine-html-reporter": "^1.0.0",
     "ng-packagr": "5.4.3",
-    "protractor": "~6.0.0-beta",
+    "protractor": "~7.0.0",
     "rimraf": "^2.6.1",
     "ts-node": "~8.0.0",
     "tsickle": "^0.34.0",

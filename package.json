@@ -48,7 +48,7 @@
     "protractor": "~6.0.0-beta",
     "rimraf": "^2.6.1",
     "ts-node": "~8.0.0",
-    "tsickle": "^0.34.0",
+    "tsickle": "^0.39.0",
     "tslib": "^1.7.1",
     "tslint": "~5.18.0",
     "typescript": "3.2.4"

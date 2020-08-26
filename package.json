@@ -36,7 +36,7 @@
     "@types/node": "^10.10.1",
     "codelyzer": "~4.5.0",
     "cpr": "^3.0.0",
-    "jasmine-core": "~3.3.0",
+    "jasmine-core": "~3.6.0",
     "jasmine-spec-reporter": "~4.2.0",
     "karma": "~4.0.0",
     "karma-chrome-launcher": "~2.2.0",

@@ -6,8 +6,8 @@
   "license": "MIT",
   "private": true,
   "peerDependencies": {
-    "@angular/core": "8.0.0-beta.4",
-    "@angular/common": "8.0.0-beta.4"
+    "@angular/core": "8.2.14",
+    "@angular/common": "8.2.14"
   },
   "ngPackage": {
     "$schema": "./node_modules/ng-packagr/ng-package.schema.json",

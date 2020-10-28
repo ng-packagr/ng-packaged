@@ -8079,6 +8079,11 @@ typescript@3.2.4:
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.2.4.tgz#c585cb952912263d915b462726ce244ba510ef3d"
   integrity sha512-0RNDbSdEokBeEAkgNbxJ+BLwSManFy9TeXz8uW+48j/xhEXv1ePME60olyzw2XzUqUBNAYFeJadIqAgNqIACwg==
 
+typescript@4.1.0-dev.20201027:
+  version "4.1.0-dev.20201027"
+  resolved "https://registry.yarnpkg.com/typescript/-/typescript-4.1.0-dev.20201027.tgz#86442dca7f6edc5e0d3b7eee79c774884996842f"
+  integrity sha512-XBUnP73Hk26DKmpsyF3SB6eamz2CHOCN7gDFRUwAb/z7DTktFJ+oPywrxwMMaJO9bx7M+evkq+p6gHzcn1TvGw==
+
 uglify-js@^3.1.4:
   version "3.4.9"
   resolved "https://registry.yarnpkg.com/uglify-js/-/uglify-js-3.4.9.tgz#af02f180c1207d76432e473ed24a28f4a782bae3"
